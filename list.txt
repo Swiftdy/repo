@@ -1,1 +1,1 @@
-https://github.com/Modder4869/LazyStuff/blob/master/LazyPlugins/ThemePreview.plugin.js
+https://raw.githubusercontent.com/motoenduroboy/BetterDiscord-Themes/master/release/auto-update/OrangeisaMassiveWeeb.theme.css
